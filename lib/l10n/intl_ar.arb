@@ -1,0 +1,121 @@
+{
+"home_page_title"                         :"الصفحة الرئيسية",
+"home_page_body"                          :"أدخل موقعك لرؤية التوقعات",
+"last_updated_text"                       :"تم التحديث في",
+"search_page_title"                       :"أدخل اسم المدينة",
+"text_field_hint_text"                    :"الرجاء إدخال اسم المدينة المطلوبة",
+"text_field_label_text"                   :"بحث",
+"no_internet_error"                       :"يرجى التحقق من اتصالك بالإنترنت والمحاولة مرة أخرى",
+"bad_request_1003_error"                  :"لم يتم توفير المتغيرات المطلوبة",
+"bad_request_1005_error"                  :"عنوان غير صالح",
+"bad_request_1006_error"                  :"لم يتم العثور على الموقع",
+"bad_request_9000_error"                  :"جسم الـ JSON المرسل في الطلب الجماعي غير صالح. يرجى التأكد من أنه JSON صالح مع ترميز UTF-8",
+"bad_request_9001_error"                  :"يحتوي جسم الـ JSON على العديد من المواقع في الطلب الجماعي. يرجى الحفاظ على العدد أقل من 50 في الطلب الواحد",
+"bad_request_9999_error"                  :"خطأ داخلي في التطبيق",
+
+"unauthorized_1002"                       :"لم يتم توفير مفتاح API",
+"unauthorized_2006"                       :"مفتاح API المقدم غير صالح",
+
+"forbidden_2007_error"                    :"مفتاح API قد تجاوز الحصة الشهرية للمكالمات",
+"forbidden_2008_error"                    :"تم تعطيل مفتاح API",
+"forbidden_2009_error"                    :"مفتاح API ليس لديه حق الوصول إلى المورد. يرجى التحقق من صفحة التسعير لمعرفة ما هو مسموح به في خطة اشتراك API الخاصة بك",  
+
+"Sunny"                                   :"مشمس",
+"Clear"                                   :"صافي",
+
+"Partly_cloudy"                           :"غائم جزئيا",
+"Cloudy"                                  :"غائم",
+"Overcast"                                :"ملبَد بالغيوم",
+"Mist"                                    :"سديم",
+"Patchy_rain_possible"                    :"أمطار متفاوتة قريبة",
+"Patchy_snow_possible"                    :"ثلوج متفاوتة قريبة",
+"Patchy_sleet_possible"                   :"صقيع متفاوت قريب",
+"Patchy_freezing_drizzle_possible"        :"رذاذ متجمِد متفاوت قريب",
+
+"Thundery_outbreaks_possible"             :"عواصف رعديَة في المناطق المجاورة",
+
+"Blowing_snow"                            :"هبَات من الثلوج",
+"Blizzard"                                :"عاصفة ثلجيَة",
+
+"Fog"                                     :"ضباب",
+"Freezing_fog"                            :"ضباب متجمِد",
+
+"Patchy_light_drizzle"                    :"رذاذ خفيف متفاوت",
+"Light_drizzle"                           :"رذاذ خفيف متفاوت",
+
+"Freezing_drizzle"                        :"رذاذ متجمِد",
+"Heavy_freezing_drizzle"                  :"رذاذ متجمِد شديد",
+
+"Patchy_light_rain"                       :"أمطار خفيفة متفاوتة",
+"Light_rain"                              :"أمطار خفيفة",
+"Moderate_rain_at_times"                  :"أمطار معتدلة أحياناً",
+"Moderate_rain"                           :"أمطار معتدلة",
+"Heavy_rain_at_times"                     :"أمطار شديدة أحياناً",
+"Heavy_rain"                              :"أمطار شديدة",
+"Light_freezing_rain"                     :"أمطار متجمِدة خفيفة",
+"Moderate_or_heavy_freezing_rain"         :"أمطار متجمِدة معتدلة أو شديدة",
+
+"Light_sleet"                             :"صقيع خفيف",
+"Moderate_or_heavy_sleet"                 :"صقيع معتدل أو شديد",
+
+"Patchy_light_snow"                       :"ثلوج خفيفة متفاوتة",
+"Light_snow"                              :"ثلوج خفيفة",
+"Patchy_moderate_snow"                    :"ثلوج معتدلة متفاوتة",
+"Moderate_snow"                           :"ثلوج معتدلة",
+"Patchy_heavy_snow"                       :"ثلوج شديدة متفاوتة",
+"Heavy_snow"                              :"ثلوج شديدة",
+
+"Ice_pellets"                             :"حبيبات جليدية",
+
+"Light_rain_shower"                       :"زخَات خفيفة من الأمطار",
+"Moderate_or_heavy_rain_shower"           :"زخَات معتدلة أو شديدة من الأمطار",
+"Torrential_rain_shower"                  :"زخَات غزيرة من الأمطار",
+
+"Light_sleet_showers"                     :"زخَات خفيفة من الصقيع",
+"Moderate_or_heavy_sleet_showers"         :"زخَات معتدلة أو شديدة من الصقيع",
+
+"Light_snow_showers"                      :"زخَات خفيفة من الثلوج",
+"Moderate_or_heavy_snow_showers"          :"زخَات معتدلة أو شديدة من الثلوج",
+
+"Light_showers_of_ice_pellets"            :"زخَات خفيفة من الحبيبات الجليديَة",
+"Moderate_or_heavy_showers_of_ice_pellets":"زخَات معتلة أو شديدة من الحبيبات الجليديَة",
+
+"Patchy_light_rain_with_thunder"          :"أمطار خفيفة متفاوتة في المنطقة مع رعد",
+"Moderate_or_heavy_rain_with_thunder"     :"أمطار معتدلة أو شديدة في المنطقة مع رعد",
+"Patchy_light_snow_with_thunder"          :"ثلوج خفيفة متفاوتة في المنطقة مع رعد",
+"Moderate_or_heavy_snow_with_thunder"     :"ثلوج معتدلة أو شديدة في المنطقة مع رعد",
+"error_message_header"                    :"خطا",
+"uncatched_exception"                     :"حدث خطأ غير متوقع. يرجى الاتصال بالدعم إذا استمرت المشكلة"
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
